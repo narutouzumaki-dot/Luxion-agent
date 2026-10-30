@@ -1,0 +1,6 @@
+.module-header{margin-bottom:22px}.module-header h1{font:700 24px Orbitron}.module-header p{margin-top:8px;color:var(--text-secondary);font-size:13px;line-height:1.6}
+.module-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.module-form{display:grid;gap:12px}.module-form textarea{min-height:120px;resize:vertical}
+.voice-orb{width:150px;height:150px;margin:35px auto;display:grid;place-items:center;border-radius:50%;background:radial-gradient(circle,#ff6a21,#ff3030 60%,#350808);box-shadow:0 0 45px rgba(255,48,48,.3)}
+.voice-orb button{width:74px;height:74px;display:grid;place-items:center;border:1px solid rgba(255,255,255,.4);border-radius:50%;background:rgba(0,0,0,.25)}
+pre.code-output{white-space:pre-wrap;overflow-wrap:anywhere;padding:14px;border-radius:12px;background:#08080a;color:#ddd;font-size:12px}
